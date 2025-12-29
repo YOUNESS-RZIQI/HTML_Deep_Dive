@@ -16,6 +16,7 @@ The CSSOM, or the CSS Object Model, is a set of application programming interfac
 3.3) Render tree
 A render tree is a collection of objects that has to be rendered by the browser to present the information in an easily accessible manner. A render tree consists of multiple smaller elements that need to be rendered.
 
+
 The structure of a render tree is consistent with the structure of the DOM: every string of text is represented by a separate element that has its corresponding DOM object and calculated style. The only elements that are not included in the render tree are the ones that are set to be invisible, such as tags or elements with a display:none; property.
 
 4) How does a browser render a webpage?
