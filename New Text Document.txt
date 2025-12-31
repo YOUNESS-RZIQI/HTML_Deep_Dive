@@ -60,7 +60,6 @@ achieved by using HTML for structure (like <p> tags for
 paragraphs)
 and CSS for presentation (like spacing and layout).
 
-
 7) Conclusion
 Overall, while <br> tags are useful for specific purposes like
 creating line breaks within a paragraph
