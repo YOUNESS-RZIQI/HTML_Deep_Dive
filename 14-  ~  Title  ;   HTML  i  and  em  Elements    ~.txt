@@ -1,7 +1,7 @@
 <!--
 
 
-                        ~  Title : HTML < i > and < em > Elements
+                        ~  Title : HTML < i > and < em > Elements    ~
 
         the bouth tags <i> & <em> have the same visual output , but the difference is in the simantic face.
         the <b> does not have a semantic meaning , but the <em> tag do have semantic meaning for the screen readers.
